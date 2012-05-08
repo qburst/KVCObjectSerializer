@@ -10,6 +10,7 @@ HOW TO
 ------
 1. Copy the two files KVCBaseObject.h and KVCBaseObject.m to your project folder.
 2. Subclass your model objects from KVCBaseObject and you are good to go!
+3. Since SBJSON is a dependancy, you would have to add that too.
 
 Examples
 --------
